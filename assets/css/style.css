@@ -1,11 +1,11 @@
-/*Universal Sector*/
+/*UNIVERSAL SECTOR*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/*Element Sectors*/
+/*ELEMENT SECTOR*/
 
 a {
     color: #ffffff;
@@ -19,10 +19,6 @@ p {
 body {
     background-color: #d9dcd6;
 }
-
-
-/*Class Sectors*/
-
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -55,6 +51,8 @@ header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
+
+/*CLASS SECTOR*/
 
 .hero {
     height: 800px;
@@ -98,7 +96,7 @@ header div ul li {
     max-width: 150px;
 }
 
-.benefit-brand img {
+/* .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -108,8 +106,9 @@ header div ul li {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
+/*content mapping*/
 .content-style {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,8 +117,6 @@ header div ul li {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-
 .content img {
     max-height: 200px;
 }
@@ -135,7 +132,6 @@ header div ul li {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
 .footer h2 {
     font-size: 20px;
 }
