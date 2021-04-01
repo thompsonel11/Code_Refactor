@@ -65,9 +65,9 @@ footer {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+
 footer h2 {
     font-size: 20px;
-
 }
 
 /*CLASS SECTOR*/
@@ -134,10 +134,10 @@ main {
     background-color: #0072bb;
     color: #ffffff;
 }
-.content img {
+.content-style img {
     max-height: 200px;
 }
-.content h2 {
+.content-style h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
