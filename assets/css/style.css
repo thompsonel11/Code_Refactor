@@ -52,6 +52,24 @@ header nav ul li {
     margin-left: 25px;
 }
 
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*footer mapping*/
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+footer h2 {
+    font-size: 20px;
+
+}
+
 /*CLASS SECTOR*/
 
 .hero {
@@ -122,16 +140,4 @@ main {
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-/*footer mapping*/
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-footer h2 {
-    font-size: 20px;
-
 }
