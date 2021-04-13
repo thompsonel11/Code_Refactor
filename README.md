@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/79523556/113483654-8e543d00-9472-11eb-
 
 https://user-images.githubusercontent.com/79523556/113483780-2ce09e00-9473-11eb-905f-924a370fac8c.png
 
+
 The HTML file above captures the changes I made to the aside of the webpage. This portion of the code mimicks the changes I made above: focusing on utilizing more appropriate tags (aside since the contents are not the main - they are on the side) as well as giving each article the same class name since they share the same attributes.  This cuts down on repetitiveness in the CSS file that is linked below: 
 
 https://user-images.githubusercontent.com/79523556/113483948-e0e22900-9473-11eb-9406-4e0b2610baec.png
